@@ -1,7 +1,7 @@
 # flip8_django
 - [모두의 연구소 - 풀잎스쿨 8기 Django with TDD](http://home.modulabs.co.kr/product/%eb%b6%81%ec%b9%98%ea%b3%a0-django%ec%b9%98%ea%b3%a0/) 과정 실습을 위한 repository
 - Django(Python Web Framework) 기본학습 - 매 시간 pair programming 과 TDD 실습으로 진행됨.
-- 주교재 : [obey the testing goat 영문판](https://www.obeythetestinggoat.com/pages/book.html)
+- 주교재 : [obey the testing goat 영문판](https://www.obeythetestinggoat.com/pages/book.html) / [실습 repo](https://github.com/hjwp/book-example)
 - 실습환경 
   - python 3.6
   - Django 1.11.23
